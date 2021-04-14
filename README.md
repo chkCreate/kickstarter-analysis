@@ -1,1 +1,1 @@
-# pre.3.2
+# Mod 1 - Kickstarter analysis
