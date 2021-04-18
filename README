@@ -21,7 +21,7 @@ I created a pivot table using the Kickstarter data to analyze the counts of outc
   
 I counted all the different outcomes of play campaigns depending on the range of goal amounts. Then I calculated the percentage of the outcomes per range as well, which was visualized into a line graph. 
   
-![alt text](Theater_Outcomes_vs_Launch.png)
+![alt text](https://github.com/chkCreate/kickstarter-analysis/blob/50a1f6a7c0bb0739eeed0320c4739e7526df81d9/Resources/Theater_Outcomes_vs_Launch.png)
   
 ### Challenges and Difficulties Encountered
   
