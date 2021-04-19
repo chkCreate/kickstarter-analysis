@@ -13,13 +13,13 @@ The client's play Fever came close to its fundraising goal in a short amount of 
 I created a pivot table using the Kickstarter data to analyze the counts of outcomes for theater campaigns per launch months. This organization of data was demonstrated as a line graph.
   
 ![alt text](https://github.com/chkCreate/kickstarter-analysis/blob/50a1f6a7c0bb0739eeed0320c4739e7526df81d9/Resources/Outcomes_vs_Goals.png)
-  
+
 ### Analysis of Outcomes Based on Goals
   
 I counted all the different outcomes of play campaigns depending on the range of goal amounts. Then I calculated the percentage of the outcomes per range as well, which was visualized into a line graph. 
   
 ![alt text](https://github.com/chkCreate/kickstarter-analysis/blob/50a1f6a7c0bb0739eeed0320c4739e7526df81d9/Resources/Theater_Outcomes_vs_Launch.png)
-  
+
 ### Challenges and Difficulties Encountered
   
 I didn't encounter any difficulties, but I do think the goal ranges should be edited overall to cover the gaps between each range. For example, "1000 to 4999" should be edited to be "1000 <=, <5000"; and, "greater than 50000" should be edited to be "greater than or equal to 50000". You have the potential to lose datasets that fall outside the the conditions.
