@@ -1,4 +1,4 @@
-# Mod 1 - An Analysis of Kickstarter Campaigns with Excel
+# Analysis of Kickstarter Campaigns with Excel
 
 ## Overview of Project
 
