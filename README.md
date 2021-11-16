@@ -30,7 +30,7 @@ I didn't encounter any difficulties, but I do think the goal ranges should be ed
   
 For all years, theater campaigns launched between May and June had the higher outcomes of success, and therefore we recommended the client to select a launch date within this time frame as you can see from the image. However, even July had moderate levels of success if the client is pushed a few days behind their schedule. Months from August to April appear to have have lower number of success outcomes.  
   
-- Conclusion about the Outcomes based on Goals?
+- Conclusion about the Outcomes based on Goals
   
 As for setting the funding goals, we recommend an amount less than $5,000.00 for the highest rate of success to meeting the goal amounts. If the client is willing to take a little more risk in terms meeting the goal amount, setting a goal amount in the range $5,000.00 to $9,999.00 is recommended as well.
   
