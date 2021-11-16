@@ -12,7 +12,7 @@ The client's play Fever came close to its fundraising goal in a short amount of 
   
 I created a pivot table using the Kickstarter data to analyze the counts of outcomes for theater campaigns per launch months. This organization of data was demonstrated as a line graph.
   
-![alt text](https://github.com/chkCreate/kickstarter-analysis/blob/50a1f6a7c0bb0739eeed0320c4739e7526df81d9/Resources/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png](Resources/Outcomes_vs_Goals.png)
 
 ### Analysis of Outcomes Based on Goals
   
